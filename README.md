@@ -84,5 +84,9 @@ Its main goal is to store **2D shape geometry** enriched with **depth data** and
 ## Building & Running
 *Not yet relevant — there is no usable release or standalone build yet. Prerequisites and build instructions will be added once the first functional prototype is ready.*
 
+## Related Projects
+- [spacer_goes_fishing](https://github.com/LisoJerz/spacer_goes_fishing) — the main game that **SPACER GOES LOFTING** is built for *(WIP)*.
+- [SpacersVisual](https://github.com/LisoJerz/SpacersVisual) — custom pixel font used across the project.
+
 ## License
 **WTFPL-NW** — see [LICENSE.md](LICENSE.md).
